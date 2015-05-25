@@ -36,6 +36,7 @@
       }
     }],
     "require": {
+      "php": ">=5.5",
       "elgg/elgg": "dev-elgg_application",
       "srokap/code_review": "1.0.5",
       "brettp/login_as": "dev-composer"
